@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leonardo Nunes 😉
 
 [![Service](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devweb.swiftdev.com.br/)
-[![CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leonardosoaresnunes.github.io/Leonardo-Nunes-cv-index/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nunes-239025bb/)[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardo_nunes13)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.nunes.dev/)
+[![CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://leonardosoaresnunes.github.io/Leonardo-Nunes-cv-inde](https://linktr.ee/leonardosn01))[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nunes-239025bb/)[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardo_nunes13)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.nunes.dev/)
 
 ![Leonardo Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSoaresNunes&show_icons=true&theme=dracula)
 
